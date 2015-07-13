@@ -1,1 +1,2 @@
-# odoo-addon-template
+# odoo-templates
+Odoo templates for new addons
