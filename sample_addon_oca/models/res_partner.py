@@ -5,7 +5,8 @@
 #    OpenERP, Open Source Management Solution
 #    This module copyright :
 #        (c) 2015 Incaser Informatica, SL (
-#               Castellon, Spain, http://www.incaser.es)
+#                   Castellon, Spain, http://www.incaser.es)
+#                 Carlos Dauden <carlos@incaser.es>
 #                 Sergio Teruel <sergio@incaser.es>
 #
 #    This program is free software: you can redistribute it and/or modify
